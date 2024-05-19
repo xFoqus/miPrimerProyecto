@@ -1,1 +1,2 @@
 1. Aprender Front-End y Javascript
+2. Mejorar Back-End y conocer nuevas tecnologias Web
